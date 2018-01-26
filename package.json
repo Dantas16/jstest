@@ -1,0 +1,23 @@
+{
+  "name": "jasmine-tests",
+  "version": "1.0.0",
+  "description": "Jasmine Tests learning",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Jasmine",
+    "tests",
+    "js"
+  ],
+  "author": "Gutemberg",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jasmine": "^3.0.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-minify": "^2.1.0",
+    "jshint": "^2.9.5"
+  }
+}
